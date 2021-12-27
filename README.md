@@ -15,4 +15,4 @@ Ok, if you feel ready let's define what we need to start this magical journeyðŸ¤
 Excellent, after we did that just type "npm start" in the terminal. 
 <p>Switch to your browser, type "localhost:3080" and press Enter.</p>
 Please, use the google account that we define in the section above.
-<p>The Magic is happening....</p>
+<p>Here the Magic is happening....</p>
