@@ -10,7 +10,7 @@ Ok, if you feel ready let's define what we need to start this magical journeyðŸ¤
   <li>Inside OAuth client ID add redirect URL. Google will redirect users to this route after they logged in.</li>
   <li>Navigate to the OAuth consent screen page â€” in the left sidebar, find the 'Test users' header, click Add User button and select the account that you want to use.</li>
   <li>Download the JSON with our client id, client secret, and redirect URL to be used later into the "secret.env" file.</li>
-  <li>Put all those values from the list item above in the "secret.env" file.<li>
+  <li>Put all those values from the list item above in the "secret.env" file.</li>
 </ul>
 Excellent, after we did that just type "npm start" in the terminal. 
 <p>Switch to your browser, type "localhost:3080" and press Enter.</p>
